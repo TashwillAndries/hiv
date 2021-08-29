@@ -22,6 +22,10 @@ body{
     align-items: center;
 }
 
+.title{
+    font-size: 30px;
+}
+
 .nav-links{
     display: flex;
     list-style: none;
